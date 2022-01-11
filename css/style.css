@@ -1829,6 +1829,23 @@ h6 a:hover {
     color: black;
 }
 
+.footer-bottom .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.smart a:link,
+.smart a:visited {
+    color: #444444;
+}
+
+.smart p {
+    color: #848484;
+    margin-bottom: 0px;
+}
+
 
 /*** 
 
